@@ -43,7 +43,7 @@ requirements = [
     'isodate==0.6.0',
     'numpy==1.15.0',
     'python-dateutil==2.7.3',
-    'requests==2.19.1',
+    'requests==2.20.0',
     'six==1.11.0',
     'urllib3==1.23',
 ]
