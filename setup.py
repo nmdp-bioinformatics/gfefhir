@@ -41,7 +41,7 @@ requirements = [
     'gfe-client==0.0.2',
     'idna==2.7',
     'isodate==0.6.0',
-    'numpy==1.15.0',
+    'numpy==1.22.0',
     'python-dateutil==2.7.3',
     'requests==2.20.0',
     'six==1.11.0',
