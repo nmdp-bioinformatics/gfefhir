@@ -35,7 +35,7 @@ with open('HISTORY.rst') as history_file:
 
 requirements = [
     'biopython==1.72',
-    'certifi==2018.4.16',
+    'certifi==2022.12.7',
     'chardet==3.0.4',
     'fhirclient==3.2.0',
     'gfe-client==0.0.2',
